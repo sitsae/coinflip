@@ -2,7 +2,7 @@
 
 A very simple console game where the protagonist is the animation for the coinflip.
 
->Clone the repo to your computer, then from the coinflip directory:
+Clone the repo to your computer, then from the coinflip directory:
 
     $ py main.py
 
